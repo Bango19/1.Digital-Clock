@@ -1,3 +1,3 @@
-# 60-Projects-in-60-days
+# Digital Clock
 
 A digital clock
